@@ -39,7 +39,7 @@ This data analytics project analyzes the Netflix dataset (8,807 titles from Kagg
 - `netflix_analysis.ipynb`: Main Jupyter Notebook (analysis code).
 - `netflix_titles.csv`: Raw dataset.
 - `netflix.db`: Generated SQLite database.
-- `advanced_queries.sql`: Advanced SQL examples.
+- `extra_sql_queries.sql`: Advanced SQL examples.
 - Plot outputs: PNG images and HTML interactives.
 - `requirements.txt`: Library dependencies.
 
@@ -50,7 +50,7 @@ This data analytics project analyzes the Netflix dataset (8,807 titles from Kagg
 - Deployment: Host on Streamlit/Heroku for a web app.
 
 ## Author
-Divyanshu Rai | Data Analyst | [https://www.linkedin.com/in/divyanshu-rai-238618226/ 
-/divyanshu0103@gmail.com] | Built with ❤️ in 2025
+Divyanshu Rai 
 
-**License**: MIT (free to use/modify). Questions? Contact me!
+
+
